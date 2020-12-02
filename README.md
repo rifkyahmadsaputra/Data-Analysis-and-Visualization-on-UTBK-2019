@@ -156,7 +156,6 @@
 <br></br>
 
 <br></br>
-<br></br>
 
 #### Analysis and Visualization on Participants Who Take Science-type Examinations
 1. First choices science-related majors and universities from participants who take science-type examinations.
