@@ -11,7 +11,7 @@
 <p align = "justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There are about 147 thousand samples (out of 1.1 million total scores) and this data is not indicative of the whole 1.1 million dataset as it is collected from a third-party sources (with maybe some invalid data strewn in). This dataset also contains the major picked by those exam-takers.
  <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The testing part of UTBK SBMPTN was held in 'waves' and 'batches'. There are 2 'waves' of examinations and an exam-taker could take part in both 'waves' and thus have 2 scores for the examination. As for the content of the examination, there are two types of examination: one for exam-taker aiming to study in a science-related major and one for a humanities-related major. The first part of these two examinations are general knowledge and reasoning tests covering, and the second part differs according to the examination types, science-type examinations or humanities-type examinations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The testing part of UTBK SBMPTN was held in 'waves' and 'batches'. There are 2 'waves' of examinations and an exam-taker could take part in both 'waves' and thus have 2 scores for the examination. The first part of these two examinations are general knowledge and reasoning tests covering. The second part differs according to the examination types, science-type examinations (science-related major) or humanities-type examinations (humanities-related major). 
  <br></br>
  Check this link for details of the data : https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019
 </p>
