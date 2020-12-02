@@ -1,4 +1,4 @@
-# Data Analysis and Visualization on UTBK 2019 Data
+# Data Analysis and Visualization on UTBK 2019
 
 ## Introduction
 <p align = "justify">
