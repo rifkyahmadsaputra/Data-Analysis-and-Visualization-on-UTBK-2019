@@ -13,7 +13,7 @@
  <br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The testing part of UTBK SBMPTN was held in 'waves' and 'batches'. There are 2 'waves' of examinations and an exam-taker could take part in both 'waves' and thus have 2 scores for the examination. As for the content of the examination, there are two types of examination: one for exam-taker aiming to study in a science-related major and one for a humanities-related major. The first part of these two examinations are general knowledge and reasoning tests covering, and the second part differs according to the examination types, science-type examinations or humanities-type examinations.
  <br></br>
- Check this link for details of data : https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019
+ Check this link for details of the data : https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019
 </p>
 
 ## Summary (Analysis and Visualization)
