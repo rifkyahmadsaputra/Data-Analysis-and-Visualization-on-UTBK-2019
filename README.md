@@ -44,9 +44,9 @@
 </p>
 
 <p align="center"> 
- <img src="images/top 10 first choices humanities-related majors and universities.png" /> 
+ <img src="images/top 10 majors and universities.png" /> 
  <br></br>
- Top 10 first choices humanities-related majors and universities
+ Top 10 majors and universities
 </p>
 
 <p align = "justify">
