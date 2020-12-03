@@ -18,7 +18,7 @@
 
 ## Summary (Analysis and Visualization)
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First thing that I do in this project is do some preprocessing data and create some new columns, that is  participants average scores (do average on each participants scores), majors and universities names of the participants first and second choice, participants average scores from each majors and universities (calculated based on average scores on each participants who choose the same major and universitiy), etc.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First thing that I do in this project is do some preprocessing data and create some new columns, that is  participants average scores (do average on each participants scores), majors and universities names of the participants first and second choice, participants average scores from each majors and universities (calculated based on average scores on each participants who choose the same major and universitiy), etc. The following is the pieces of data preprocessed.
 </p>
 
 <p align="center"> 
