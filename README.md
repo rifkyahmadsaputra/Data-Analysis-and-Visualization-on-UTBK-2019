@@ -4,7 +4,7 @@
 <p align = "justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this project, I do some analysis and visualization on samples of scores UTBK SBMPTN 2019 data. I do that because I want to find informations and insights about UTBK  in 2019, e.g. what majors and universities are the most favourite in 2019, distribution of participants UTBK scores in 2019,  etc.
  <br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The data  used in this project is 147k samples of scores from Indonesia UTBK SBMPTN 2019, taken from Kaggle (https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019). After that, I do some preprocessing on the data and create new columns that is participants average scores (do average on each participants scores), majors and universities names of the participants first and second choice, etc. Then, do some analysis in order to get insight or information from data, and make data visualization so that the data can be easily understood. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The data  used in this project is 147k samples of scores from Indonesia UTBK SBMPTN 2019, taken from Kaggle (source : https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019). After that, I do some preprocessing on the data and create new columns that is participants average scores (do average on each participants scores), majors and universities names of the participants first and second choice, etc. Then, do some analysis in order to get insight or information from data, and make data visualization so that the data can be easily understood. 
 </p>
 
 ## Data
