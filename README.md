@@ -18,15 +18,15 @@
 
 ## Summary (Analysis and Visualization)
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First thing that I do in this project is do some preprocessing data and create some new columns, that is  participants average scores (do average on each participants scores), majors and universities names of the participants first and second choice, participants average scores from each majors and universities (calculated based on average scores on each participants who choose the same major and universitiy), etc. The following is the pieces of data preprocessed.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First thing that I do in this project is do some preprocessing data and create some new columns, that is  participants average scores (do average on each participants scores), majors and universities names of the participants first and second choice, participants average scores from each majors and universities (calculated based on average scores on each participants who choose the same major and universitiy), etc. The following is the pieces of preprocessed data.
 </p>
 
 <p align="center"> 
- <img src="images/data preprocessed (1).png" /> 
- <img src="images/data preprocessed (2).png" /> 
- <img src="images/data preprocessed (3).png" /> 
+ <img src="images/preprocessed data (1).png" /> 
+ <img src="images/preprocessed data(2).png" /> 
+ <img src="images/preprocessed data(3).png" /> 
  <br></br>
- Data preprocessed
+ Preprocessed data
 </p>
 
 <p align = "justify">
