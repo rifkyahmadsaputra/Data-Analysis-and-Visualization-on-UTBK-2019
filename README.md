@@ -23,8 +23,8 @@
 
 <p align="center"> 
  <img src="images/preprocessed data (1).png" /> 
- <img src="images/preprocessed data(2).png" /> 
- <img src="images/preprocessed data(3).png" /> 
+ <img src="images/preprocessed data (2).png" /> 
+ <img src="images/preprocessed data (3).png" /> 
  <br></br>
  Preprocessed data
 </p>
